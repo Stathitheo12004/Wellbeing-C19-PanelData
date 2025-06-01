@@ -1,5 +1,5 @@
 # 📁 **Wellbeing in Crisis – COVID-19, Socioeconomics & Mental Health**  
-*Stata | Economics | Panel Data Econometrics*
+Stata | Economics | Panel Data Econometrics
 
 This project investigates how subjective wellbeing (SWB) in the UK was shaped by socioeconomic factors during the COVID-19 pandemic. Using longitudinal data from the Understanding Society (UKHLS) survey, it applies Fixed Effects (FE), Correlated Random Effects (CRE), and Difference-in-Differences (DiD) estimators to assess how income, education, and employment influenced mental distress across regions.
 
