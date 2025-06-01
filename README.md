@@ -19,4 +19,4 @@ This project investigates how subjective wellbeing (SWB) in the UK was shaped by
 To run the project on your own machine, please import the dataset and STATA code from the following dta and do.File:
 ### 📂 Download the dataset: [Data.dta](./Data.dta)
 
-### 📂 Download the code: [STATA File.do](./STATA%20File.do)
+### 📂 Download the replication code: [STATA.File.do](./STATA.File.do)
