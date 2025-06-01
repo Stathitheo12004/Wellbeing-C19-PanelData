@@ -16,4 +16,7 @@ This project investigates how subjective wellbeing (SWB) in the UK was shaped by
 - Higher income, education, and paid employment are associated with reduced mental distress. FE models outperform RE due to unobserved heterogeneity. DiD analysis reveals that married individuals experienced greater wellbeing declines post-lockdown—suggesting relational stress under crisis conditions.  
 - These results are consistent with SWB literature (e.g., Clark & Linzer, 2014; Pieh et al., 2021) and demonstrate the usefulness of micro-level panel data in policy-relevant mental health research.
 
-*To run the project on your own machine, please import the dataset and STATA code from the following Excel and do.File:*
+To run the project on your own machine, please import the dataset and STATA code from the following Excel and do.File:
+### 📂 Download the dataset: [Data.dta](./Data.dta)
+
+### 📂 Download the code: [STATA File.do](./STATA%20File.do)
